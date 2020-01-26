@@ -1,0 +1,401 @@
+SMILES,property,source
+O=c1onc2n1-c1cc(Br)ccc1OC2,CNS MPO,moses_wo/best_from_chembl
+O=c1c2ccccc2oc2nc3n(c(=O)c12)CCCS3,CNS MPO,moses_wo/best_from_chembl
+O=c1c2ccccc2c(-c2cccnc2)nn1CCn1ccnc1,CNS MPO,moses_wo/best_from_chembl
+O=c1c2cc(Cl)ccc2oc2nc3n(c(=O)c12)CCCS3,CNS MPO,moses_wo/best_from_chembl
+O=C1c2ccccc2-c2c3c(cc4ccnc1c24)OCO3,CNS MPO,moses_wo/best_from_chembl
+O=C1OC(C2OC(=O)c3ccccc32)c2ccccc21,CNS MPO,moses_wo/best_from_chembl
+O=C1N=C(N2CCOCC2)CN1c1ccc(Cl)cc1,CNS MPO,moses_wo/best_from_chembl
+O=C1CCCN1S(=O)(=O)c1ccc(Cl)cc1,CNS MPO,moses_wo/best_from_chembl
+O=C(c1ccccn1)c1cnn2c(-c3ccncc3)ccnc12,CNS MPO,moses_wo/best_from_chembl
+O=C(c1ccccn1)N1CCN(C(=O)c2ccccn2)CC1,CNS MPO,moses_wo/best_from_chembl
+O=C(c1cccc(C(=O)N2CCCC2)c1)N1CCCC1,CNS MPO,moses_wo/best_from_chembl
+O=C(CN1CCCC1=O)N1CCN(c2cccc(Cl)c2)CC1,CNS MPO,moses_wo/best_from_chembl
+O=C(C1CCCN1C(=O)OCc1ccccc1)N1CCCC1,CNS MPO,moses_wo/best_from_chembl
+O=C(C1CCCCC1)N1CC(=O)N2CCc3ccccc3C2C1,CNS MPO,moses_wo/best_from_chembl
+O=C(C1CCCCC1)N1CC(=O)N2CCCc3ccccc3C2C1,CNS MPO,moses_wo/best_from_chembl
+Fc1ccccc1CSc1nnnn1-c1ccc2c(c1)OCO2,CNS MPO,moses_wo/best_from_chembl
+Cn1c(=O)oc2ccc(C(=O)c3ccccc3)cc21,CNS MPO,moses_wo/best_from_chembl
+Cn1c(=O)c2c(ncn2CC2OCCO2)n(C)c1=O,CNS MPO,moses_wo/best_from_chembl
+Clc1ccccc1-c1nc(-c2ccncc2)no1,CNS MPO,moses_wo/best_from_chembl
+Clc1ccc2c(c1)C(c1ccccc1)=NCc1nncn1-2,CNS MPO,moses_wo/best_from_chembl
+Clc1ccc(C2(Cn3cncn3)OCCO2)c(Cl)c1,CNS MPO,moses_wo/best_from_chembl
+Cc1nnc2sc(COc3ccc(Cl)cc3)nn2c1=O,CNS MPO,moses_wo/best_from_chembl
+Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2,CNS MPO,moses_wo/best_from_chembl
+Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2,CNS MPO,moses_wo/best_from_chembl
+Cc1nn(C)c2c1C(c1ccccc1F)=NCC(=O)N2C,CNS MPO,moses_wo/best_from_chembl
+Cc1nn(-c2ccccc2)c2nc3c(nc12)c(C)nn3-c1ccccc1,CNS MPO,moses_wo/best_from_chembl
+Cc1nc2c(OCc3ccccc3)cccn2c1CC#N,CNS MPO,moses_wo/best_from_chembl
+Cc1cccnc1-n1c(C)nc2ccccc2c1=O,CNS MPO,moses_wo/best_from_chembl
+Cc1ccc2c(c1)c1nnc(-n3ccnc3)nc1n2C,CNS MPO,moses_wo/best_from_chembl
+Cc1ccc(S(=O)(=O)N2CCCC2C(=O)N2CCCC2)cc1,CNS MPO,moses_wo/best_from_chembl
+Cc1ccc(OCc2nn3c(=O)c(C)nnc3s2)cc1,CNS MPO,moses_wo/best_from_chembl
+Cc1cc(N2CCN(S(C)(=O)=O)CC2)ncn1,CNS MPO,moses_wo/best_from_chembl
+Cc1cc(C)n(-c2nc(N3CCOCC3)nc(N3CCOCC3)n2)n1,CNS MPO,moses_wo/best_from_chembl
+Cc1c(C)c2ccc(OCc3nnc(C(C)C)s3)cc2oc1=O,CNS MPO,moses_wo/best_from_chembl
+Cc1c(C#N)c2ccccc2n1CC(=O)N1CCOCC1,CNS MPO,moses_wo/best_from_chembl
+CSc1cc(-c2ccc(Br)cc2)oc(=O)c1C#N,CNS MPO,moses_wo/best_from_chembl
+CS(=O)(=O)c1ccc(C2=C(c3ccccc3)C(=O)OC2)cc1,CNS MPO,moses_wo/best_from_chembl
+CS(=O)(=O)c1ccc(-c2cn3ccccc3n2)cc1,CNS MPO,moses_wo/best_from_chembl
+COc1nc2nc(-c3noc(C)n3)cn2c2c1CCCC2,CNS MPO,moses_wo/best_from_chembl
+COc1cnc2c3c(nccc13)C(=O)c1ccccc1-2,CNS MPO,moses_wo/best_from_chembl
+COc1ccnc(N2CCN(C(=O)c3cccs3)CC2)n1,CNS MPO,moses_wo/best_from_chembl
+COc1ccnc(N2CCN(C(=O)c3ccco3)CC2)n1,CNS MPO,moses_wo/best_from_chembl
+COc1ccnc(N2CCN(C(=O)c3ccccn3)CC2)n1,CNS MPO,moses_wo/best_from_chembl
+COc1ccnc(N2CCN(C(=O)c3ccccc3)CC2)n1,CNS MPO,moses_wo/best_from_chembl
+COc1ccccc1OC(=O)c1ccccc1OC(C)=O,CNS MPO,moses_wo/best_from_chembl
+COc1ccccc1OC(=O)Oc1ccccc1OC,CNS MPO,moses_wo/best_from_chembl
+COc1cccc(OC)c1C(=O)N1CCN(c2ccc(F)cc2)CC1,CNS MPO,moses_wo/best_from_chembl
+COc1cccc(Cn2nc3oc(=O)cc(C)c3c2C)c1,CNS MPO,moses_wo/best_from_chembl
+COc1ccc2c(c1)C(=O)C(Cc1cccnc1)CO2,CNS MPO,moses_wo/best_from_chembl
+COc1ccc(S(=O)(=O)N2CCc3ccccc3C2)cc1OC,CNS MPO,moses_wo/best_from_chembl
+COc1ccc(S(=O)(=O)N2CCc3ccccc32)cc1OC,CNS MPO,moses_wo/best_from_chembl
+COc1ccc(S(=O)(=O)N2CCCc3ccccc32)cc1OC,CNS MPO,moses_wo/best_from_chembl
+COc1ccc(S(=O)(=O)N(C)C2CCCCC2)cc1,CNS MPO,moses_wo/best_from_chembl
+COc1ccc(CN2Cc3ncccc3C2=O)cc1,CNS MPO,moses_wo/best_from_chembl
+COc1ccc(C=C2CCCN=C2c2cccnc2)c(OC)c1,CNS MPO,moses_wo/best_from_chembl
+COc1ccc(C2(C#N)CCC(=O)CC2)cc1OC1CCCC1,CNS MPO,moses_wo/best_from_chembl
+COc1ccc(-c2nnc(C)nc2-c2ccc(OC)cc2)cc1,CNS MPO,moses_wo/best_from_chembl
+COc1ccc(-c2cnc3c(-c4cccnc4)cnn3c2)cc1,CNS MPO,moses_wo/best_from_chembl
+COc1cc2ncc(-c3ccccc3)nc2cc1OC,CNS MPO,moses_wo/best_from_chembl
+COc1cc(C(=O)N2CCOCC2)cc(OC)c1OC,CNS MPO,moses_wo/best_from_chembl
+COc1c(OC)c(OC(C)=O)c2cc(Cl)ccc2c1OC(C)=O,CNS MPO,moses_wo/best_from_chembl
+COc1c(C)cnc(CSc2nnnn2C)c1C,CNS MPO,moses_wo/best_from_chembl
+CN1Cc2c(C(=O)OC(C)(C)C)ncn2-c2ccsc2C1=O,CNS MPO,moses_wo/best_from_chembl
+CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,CNS MPO,moses_wo/best_from_chembl
+CN1C(=O)CC(=O)N(c2ccccc2)c2cc(C(F)(F)F)ccc21,CNS MPO,moses_wo/best_from_chembl
+CN(c1ccccc1)c1nc(N2CCOCC2)nc(-n2ccnc2)n1,CNS MPO,moses_wo/best_from_chembl
+CN(C)c1ncnc2c1ncn2Cc1ccccc1,CNS MPO,moses_wo/best_from_chembl
+CN(C)S(=O)(=O)N1CCN(c2ncccn2)CC1,CNS MPO,moses_wo/best_from_chembl
+CN(C(=O)c1ccc(F)cc1)c1ccccc1C(=O)N1CCOCC1,CNS MPO,moses_wo/best_from_chembl
+CCn1nc(-c2cccnc2)c2ccccc2c1=O,CNS MPO,moses_wo/best_from_chembl
+CCc1nc(C#N)c(N2CCc3ccccc3CC2)nc1C,CNS MPO,moses_wo/best_from_chembl
+CCc1cc2c(s1)-n1c(C)nnc1CN=C2c1ccccc1Cl,CNS MPO,moses_wo/best_from_chembl
+CCc1c(OC)nc2nc(-c3noc(C)n3)cn2c1C,CNS MPO,moses_wo/best_from_chembl
+CCSc1nc(-c2ccc(OC)c(OC)c2)cc2nccn12,CNS MPO,moses_wo/best_from_chembl
+CCOc1ccnc(N2CCN(C(=O)c3sccc3C#N)CC2)n1,CNS MPO,moses_wo/best_from_chembl
+CCOc1ccc(-n2c(C)nc3ccccc3c2=O)cc1,CNS MPO,moses_wo/best_from_chembl
+CCOC(=O)c1ncn2c1CN(C)C(=O)c1cc(F)ccc1-2,CNS MPO,moses_wo/best_from_chembl
+CCOC(=O)c1cncn1C1CCCc2ccccc21,CNS MPO,moses_wo/best_from_chembl
+CCOC(=O)Cn1nc(C(F)(F)F)c(Br)c1C,CNS MPO,moses_wo/best_from_chembl
+CCOC(=O)CSc1nc2ccccc2c(=O)n1-c1ccccc1,CNS MPO,moses_wo/best_from_chembl
+CCOC(=O)C1CN(Cc2ccccc2)C(=O)C1=O,CNS MPO,moses_wo/best_from_chembl
+CCN(c1ccccc1)S(=O)(=O)c1ccc(OC)cc1,CNS MPO,moses_wo/best_from_chembl
+CCN(CC)C(=O)c1ccccc1C(=O)N(CC)CC,CNS MPO,moses_wo/best_from_chembl
+CCN(C(C)=O)c1cccc(-c2ccnc3c(C#N)cnn23)c1,CNS MPO,moses_wo/best_from_chembl
+CCC(=O)c1cc2n(c(=O)c1C)Cc1cc3ccccc3nc1-2,CNS MPO,moses_wo/best_from_chembl
+CC1CCCCN1C(=O)c1ccc(C(=O)N2CCCCC2C)cc1,CNS MPO,moses_wo/best_from_chembl
+CC1CC(OC(=O)CN2CCCC2=O)CC(C)(C)C1,CNS MPO,moses_wo/best_from_chembl
+CC1(C)C=C(n2ccccc2=O)c2cc(C#N)ccc2O1,CNS MPO,moses_wo/best_from_chembl
+CC(Oc1ccc(Cl)cc1)c1ccnc2ncnn12,CNS MPO,moses_wo/best_from_chembl
+CC(C)n1c(=O)c2c(-c3noc(C4CC4)n3)ncn2c2ccccc21,CNS MPO,moses_wo/best_from_chembl
+CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n1cncn1,CNS MPO,moses_wo/best_from_chembl
+CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n1ccnc1,CNS MPO,moses_wo/best_from_chembl
+CC(C)(C#N)c1cc(Cn2cncn2)cc(C(C)(C)C#N)c1,CNS MPO,moses_wo/best_from_chembl
+CC(=O)c1ccc(N2CCN(C(=O)c3cccnc3)CC2)cc1,CNS MPO,moses_wo/best_from_chembl
+CC(=O)Oc1ccccc1C(=O)Oc1c(C)occc1=O,CNS MPO,moses_wo/best_from_chembl
+CC(=O)Oc1cccc(OC(C)=O)c1OC(C)=O,CNS MPO,moses_wo/best_from_chembl
+CC(=O)Oc1cc(C)c(OC(C)=O)c2ccccc12,CNS MPO,moses_wo/best_from_chembl
+CC(=O)N1CCN(S(=O)(=O)c2ccc(C)cc2)C1C(C)C,CNS MPO,moses_wo/best_from_chembl
+C=CCn1c(SCC(=O)OC)nc2ccccc2c1=O,CNS MPO,moses_wo/best_from_chembl
+C=CCc1c(OC(C)=O)c2cccnc2n(-c2ccccc2)c1=O,CNS MPO,moses_wo/best_from_chembl
+CC1CCc2c(sc3ncn(C(CO)C(C)C)c(=O)c23)C1,QED,moses_wo/best_from_chembl
+Cc1cn(-c2ccccc2Cl)nc1NC(=O)C1CCOC1,QED,moses_wo/best_from_chembl
+Cc1nn(CC(=O)Nc2ccc3c(c2)COC3)c(C)c1Cl,QED,moses_wo/best_from_chembl
+COc1ccc(Cl)cc1C(=O)Nc1c2c(nn1C)CCC2,QED,moses_wo/best_from_chembl
+CCNC(=O)N1CCC(Oc2nc3ccccc3s2)CC1,QED,moses_wo/best_from_chembl
+O=C(NCc1ccc(F)cc1Cl)c1cc2c(cn1)OCC2,QED,moses_wo/best_from_chembl
+O=C(NCc1c(F)cccc1Cl)c1cc2c(cn1)OCC2,QED,moses_wo/best_from_chembl
+CC(NC(=O)c1cnccn1)c1ccccc1Br,QED,moses_wo/best_from_chembl
+CC(NC(=O)c1cnccn1)c1ccc(Br)cc1,QED,moses_wo/best_from_chembl
+CC(NC(=O)c1cncc(Br)c1)c1ccncc1,QED,moses_wo/best_from_chembl
+CC(NC(=O)c1cncc(Br)c1)c1cccnc1,QED,moses_wo/best_from_chembl
+CC(NC(=O)c1cncc(Br)c1)c1ccccn1,QED,moses_wo/best_from_chembl
+Cc1ccnc(NC(=O)Cc2ccc(Br)cc2)n1,QED,moses_wo/best_from_chembl
+O=C(Nc1cnn(C2CCOCC2)c1)c1ccc(F)cc1F,QED,moses_wo/best_from_chembl
+O=C(Nc1cnn(C2CCOCC2)c1)c1ccc(F)c(F)c1,QED,moses_wo/best_from_chembl
+O=C(Nc1cnn(C2CCOCC2)c1)c1c(F)cccc1F,QED,moses_wo/best_from_chembl
+COc1c(F)ccc(C(=O)Nc2cnc3n2CCCC3)c1F,QED,moses_wo/best_from_chembl
+OCc1nnn(-c2cccc(Br)c2)c1C1CCC1,QED,moses_wo/best_from_chembl
+OCc1nnn(-c2ccc(Br)cc2)c1C1CCC1,QED,moses_wo/best_from_chembl
+O=C(Nc1cccc(Cl)c1-n1cccn1)C1CCOCC1,QED,moses_wo/best_from_chembl
+O=C(Nc1cc(Cl)ccc1-n1cccn1)C1CCOCC1,QED,moses_wo/best_from_chembl
+N#CCCn1nc(-c2c(F)cccc2Cl)c2c1CCNC2,QED,moses_wo/best_from_chembl
+O=C(c1cccnc1-c1cccc(CO)c1)N1CC2CCC1C2,QED,moses_wo/best_from_chembl
+O=C(c1cccnc1-c1ccc(CO)cc1)N1CC2CCC1C2,QED,moses_wo/best_from_chembl
+CCc1cnccc1C(=O)NC1CC12CCOc1ccccc12,QED,moses_wo/best_from_chembl
+CC(C)n1nccc1NC(=O)C1COc2ccc(F)cc2C1,QED,moses_wo/best_from_chembl
+CC(C)n1cc(NC(=O)C2COc3ccc(F)cc3C2)cn1,QED,moses_wo/best_from_chembl
+COCc1csc(NC(=O)N2CCc3ccccc3C2)n1,QED,moses_wo/best_from_chembl
+CCCn1nc(-c2ccc(Br)c(O)c2)ccc1=O,QED,moses_wo/best_from_chembl
+O=S(=O)(Nc1ccc(Cl)cn1)c1ccc(F)c(F)c1,QED,moses_wo/best_from_chembl
+O=S(=O)(Nc1ccc(Cl)cn1)c1cc(F)ccc1F,QED,moses_wo/best_from_chembl
+O=C(Nc1nnc(Cc2cccc(F)c2)s1)N1CCCC1,QED,moses_wo/best_from_chembl
+O=C(Nc1nnc(Cc2ccc(F)cc2)s1)N1CCCC1,QED,moses_wo/best_from_chembl
+O=C(c1csc(-c2ccsc2)n1)N1CCC(CO)CC1,QED,moses_wo/best_from_chembl
+O=C(c1csc(-c2cccs2)n1)N1CCC(CO)CC1,QED,moses_wo/best_from_chembl
+COc1ccc(Cl)cc1C(N)c1c(C)cc(C)n(C)c1=O,QED,moses_wo/best_from_chembl
+CCc1cc(=O)[nH]c(-c2ccc(OC)c(Br)c2)n1,QED,moses_wo/best_from_chembl
+O=C(NCc1cc(F)cc2c1OCOC2)c1ccccc1F,QED,moses_wo/best_from_chembl
+O=C(NCc1cc(F)cc2c1OCOC2)c1cccc(F)c1,QED,moses_wo/best_from_chembl
+O=C(NCc1cc(F)cc2c1OCOC2)c1ccc(F)cc1,QED,moses_wo/best_from_chembl
+Cc1nc(C2CCCN(Cc3sccc3C)C2)cc(=O)[nH]1,QED,moses_wo/best_from_chembl
+Cc1ccc(-n2nnc(CO)c2C2CC2)cc1Br,QED,moses_wo/best_from_chembl
+Cc1cc(C)n(-c2ccc(NC(=O)C3CCCO3)cc2F)n1,QED,moses_wo/best_from_chembl
+Cc1cc2n(n1)CCCN2CC(=O)Nc1ccccc1Cl,QED,moses_wo/best_from_chembl
+Cc1cc2n(n1)CCCN2CC(=O)Nc1ccc(Cl)cc1,QED,moses_wo/best_from_chembl
+O=S(=O)(c1cccc(-c2ccccc2O)c1)N1CCCC1,QED,moses_wo/best_from_chembl
+O=S(=O)(c1cccc(-c2cccc(O)c2)c1)N1CCCC1,QED,moses_wo/best_from_chembl
+O=S(=O)(c1cccc(-c2ccc(O)cc2)c1)N1CCCC1,QED,moses_wo/best_from_chembl
+O=S(=O)(c1ccc(-c2ccccc2O)cc1)N1CCCC1,QED,moses_wo/best_from_chembl
+O=S(=O)(c1ccc(-c2cccc(O)c2)cc1)N1CCCC1,QED,moses_wo/best_from_chembl
+O=S(=O)(c1ccc(-c2ccc(O)cc2)cc1)N1CCCC1,QED,moses_wo/best_from_chembl
+Cc1cc(CNC(=O)C2COc3ccc(F)cc3C2)c(C)o1,QED,moses_wo/best_from_chembl
+Cc1csc(CNC(=O)C2Cc3cc(Cl)ccc3O2)n1,QED,moses_wo/best_from_chembl
+O=C1NCCCCC1Sc1nccn1-c1cccc(F)c1,QED,moses_wo/best_from_chembl
+O=C(CC(F)(F)F)Nc1ccn(-c2ncccc2Cl)n1,QED,moses_wo/best_from_chembl
+CCOc1ccc2cc(C(=O)N3CCOCC3(C)C)[nH]c2c1,QED,moses_wo/best_from_chembl
+CCOc1ccc2cc(C(=O)N3CCOC(C)(C)C3)[nH]c2c1,QED,moses_wo/best_from_chembl
+CS(=O)(=O)c1ccc(Cl)cc1C(O)c1cccs1,QED,moses_wo/best_from_chembl
+COc1ccc(Cl)cc1-c1ccc(C(C)(C)O)c(=O)n1C,QED,moses_wo/best_from_chembl
+COc1ccc(-c2ccc(C(C)(C)O)c(=O)n2C)cc1Cl,QED,moses_wo/best_from_chembl
+O=C(Cn1cncn1)Nc1c(Cl)cc(Cl)cc1Cl,QED,moses_wo/best_from_chembl
+O=C(NCc1ccccc1Cl)C1COc2ccccc2O1,QED,moses_wo/best_from_chembl
+O=C(NCc1cccc(Cl)c1)C1COc2ccccc2O1,QED,moses_wo/best_from_chembl
+O=C(NCc1ccc(Cl)cc1)C1COc2ccccc2O1,QED,moses_wo/best_from_chembl
+CCc1nc2n(n1)CCCC2NC(=O)c1cc(C)sc1C,QED,moses_wo/best_from_chembl
+Nc1ccc(-c2ccc(Cl)cc2)n(CC2CCCO2)c1=O,QED,moses_wo/best_from_chembl
+Cc1cn(-c2ccccc2Cl)nc1NC(=O)C1CCCO1,QED,moses_wo/best_from_chembl
+Cc1cc(NC(=O)C2CCCO2)n(-c2ccc(Cl)cc2)n1,QED,moses_wo/best_from_chembl
+CCc1nc2n(n1)CCCC2NC(=O)c1ccccc1Cl,QED,moses_wo/best_from_chembl
+CCc1nc2n(n1)CCCC2NC(=O)c1cccc(Cl)c1,QED,moses_wo/best_from_chembl
+CCc1nc2n(n1)CCCC2NC(=O)c1ccc(Cl)cc1,QED,moses_wo/best_from_chembl
+CC(C#N)N1CCCC(NC(=O)c2ccc3ccccc3c2)C1,QED,moses_wo/best_from_chembl
+CCC1CN(C(=O)c2cc(-c3csc(C)n3)c[nH]2)CCO1,QED,moses_wo/best_from_chembl
+CCC1CN(C(=O)c2cc(-c3ccc(C)s3)[nH]n2)CCO1,QED,moses_wo/best_from_chembl
+Cn1cc(C(=O)Nc2cc(F)ccc2N2CCCCC2)cn1,QED,moses_wo/best_from_chembl
+N#Cc1ccc(N2CCC(NC(=O)c3ccccc3)CC2)cc1,QED,moses_wo/best_from_chembl
+COc1cccc2c1OCC(NC(=O)c1sccc1C)C2,QED,moses_wo/best_from_chembl
+COc1cccc2c1OCC(NC(=O)c1ccc(C)s1)C2,QED,moses_wo/best_from_chembl
+Cc1cnc(NC(=O)C(C)n2ccc(C(F)(F)F)n2)s1,QED,moses_wo/best_from_chembl
+COc1ccc(F)cc1NC(=O)C1Cc2cccc(F)c2O1,QED,moses_wo/best_from_chembl
+COc1ccc(F)cc1NC(=O)C1Cc2cc(F)ccc2O1,QED,moses_wo/best_from_chembl
+COc1ccc(F)c(NC(=O)C2Cc3cc(F)ccc3O2)c1,QED,moses_wo/best_from_chembl
+O=C(Cc1ccc(F)c(F)c1)Nc1cccc2c1OCCO2,QED,moses_wo/best_from_chembl
+O=C(Cc1cccc(F)c1F)Nc1cccc2c1OCCO2,QED,moses_wo/best_from_chembl
+O=C(Cc1ccc2c(c1)OCCO2)Nc1ccc(F)cc1F,QED,moses_wo/best_from_chembl
+O=C(Cc1ccc2c(c1)OCCO2)Nc1ccc(F)c(F)c1,QED,moses_wo/best_from_chembl
+O=C(Cc1ccc2c(c1)OCCO2)Nc1cc(F)ccc1F,QED,moses_wo/best_from_chembl
+O=C(Cc1ccc(F)cc1F)Nc1cccc2c1OCCO2,QED,moses_wo/best_from_chembl
+O=C(Cc1c(F)cccc1F)Nc1cccc2c1OCCO2,QED,moses_wo/best_from_chembl
+Cc1nc(CNC(=O)c2cn(C)nc2C(C)(C)C)sc1C,QED,moses_wo/best_from_chembl
+Cc1nc(CNC(=O)c2cn(C)nc2C(C)(C)C)c(C)s1,QED,moses_wo/best_from_chembl
+Cc1nc(CNC(=O)c2cc(C(C)(C)C)nn2C)c(C)s1,QED,moses_wo/best_from_chembl
+Cc1nc(C)c(CNC(=O)c2cn(C)nc2C(C)(C)C)s1,QED,moses_wo/best_from_chembl
+Cc1c(CNc2ccc(Br)cn2)cc(C#N)n1C,QED,moses_wo/best_from_chembl
+Cc1ccc(CNC(=O)c2cc(Cl)c3c(c2)OCO3)n1C,QED,moses_wo/best_from_chembl
+CCS(=O)(=O)c1ccc(-c2cccc3c2CCNC3)s1,QED,moses_wo/best_from_chembl
+Cc1c(C(=O)NC2CCCC2)nnn1-c1cccc(Cl)c1,QED,moses_wo/best_from_chembl
+Cc1c(C(=O)NC2CCCC2)nnn1-c1ccc(Cl)cc1,QED,moses_wo/best_from_chembl
+O=C(Cn1cccn1)NC1CCSc2ccc(Cl)cc21,QED,moses_wo/best_from_chembl
+O=C(Nc1nncs1)N1CC(Cc2ccccc2Cl)C1,QED,moses_wo/best_from_chembl
+O=c1[nH]c(=O)n2c(c1Br)SCCC2,C7H8N2O2,moses_wo/best_from_chembl
+O=C(NCCO)c1sccc1Br,C7H8N2O2,moses_wo/best_from_chembl
+O=C(NCCO)c1cc(Br)cs1,C7H8N2O2,moses_wo/best_from_chembl
+NS(=O)(=O)Cc1ccccc1Br,C7H8N2O2,moses_wo/best_from_chembl
+NS(=O)(=O)Cc1cccc(Br)c1,C7H8N2O2,moses_wo/best_from_chembl
+NS(=O)(=O)Cc1ccc(Br)cc1,C7H8N2O2,moses_wo/best_from_chembl
+NCC(=O)OCc1cc(Br)cs1,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cccc(S(N)(=O)=O)c1Br,C7H8N2O2,moses_wo/best_from_chembl
+Cc1ccc(S(N)(=O)=O)cc1Br,C7H8N2O2,moses_wo/best_from_chembl
+Cc1ccc(S(N)(=O)=O)c(Br)c1,C7H8N2O2,moses_wo/best_from_chembl
+Cc1ccc(Br)cc1S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+Cc1ccc(Br)c(S(N)(=O)=O)c1,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(S(N)(=O)=O)ccc1Br,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(Br)ccc1S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(Br)cc(S(N)(=O)=O)c1,C7H8N2O2,moses_wo/best_from_chembl
+Cc1c(Br)cccc1S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)c1ccc(N)c(Br)c1,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)c1ccc(Br)cc1N,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)c1ccc(Br)c(N)c1,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)c1cc(N)ccc1Br,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)c1cc(N)cc(Br)c1,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)c1cc(Br)ccc1N,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)Nc1ccccc1Br,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)Nc1cccc(Br)c1,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)Nc1ccc(Br)cc1,C7H8N2O2,moses_wo/best_from_chembl
+COC(=O)c1sc(C)c(Br)c1N,C7H8N2O2,moses_wo/best_from_chembl
+COC(=O)c1nc(SC)ncc1Br,C7H8N2O2,moses_wo/best_from_chembl
+COC(=O)CSc1ncc(Br)cn1,C7H8N2O2,moses_wo/best_from_chembl
+CNS(=O)(=O)c1ccccc1Br,C7H8N2O2,moses_wo/best_from_chembl
+CNS(=O)(=O)c1cccc(Br)c1,C7H8N2O2,moses_wo/best_from_chembl
+CNS(=O)(=O)c1ccc(Br)cc1,C7H8N2O2,moses_wo/best_from_chembl
+CNC(=O)C(O)c1cc(Br)cs1,C7H8N2O2,moses_wo/best_from_chembl
+CCS(=O)(=O)c1ncccc1Br,C7H8N2O2,moses_wo/best_from_chembl
+CCOc1ncc(Br)c(N)c1Br,C7H8N2O2,moses_wo/best_from_chembl
+CCOc1nc(N)c(Br)cc1Br,C7H8N2O2,moses_wo/best_from_chembl
+O=c1c(Cl)cc(Br)cn1CCO,C7H8N2O2,moses_wo/best_from_chembl
+O=c1c(Br)cc(Br)cn1CCO,C7H8N2O2,moses_wo/best_from_chembl
+Nc1cccc(Br)c1S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+Nc1ccc(S(N)(=O)=O)cc1Br,C7H8N2O2,moses_wo/best_from_chembl
+Nc1ccc(Br)cc1S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+Nc1cc(S(N)(=O)=O)ccc1Br,C7H8N2O2,moses_wo/best_from_chembl
+Nc1cc(Br)ccc1S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+Nc1c(Br)cccc1S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+NS(=O)(=O)Nc1ccc(Br)cc1,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)Nc1ncccc1Br,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)Nc1ccc(Br)cn1,C7H8N2O2,moses_wo/best_from_chembl
+COc1nc(OC)c(Br)cc1Br,C7H8N2O2,moses_wo/best_from_chembl
+COC(=O)c1nn(CC(F)F)cc1Br,C7H8N2O2,moses_wo/best_from_chembl
+COC(=O)Cn1ccnc1C(Cl)(Cl)Cl,C7H8N2O2,moses_wo/best_from_chembl
+CNS(=O)(=O)c1cncc(Br)c1,C7H8N2O2,moses_wo/best_from_chembl
+CC(C#N)NS(=O)(=O)c1sccc1Br,C7H8N2O2,moses_wo/best_from_chembl
+C=CCNS(=O)(=O)c1sccc1Br,C7H8N2O2,moses_wo/best_from_chembl
+NS(=O)(=O)NCc1ccc(Cl)cc1Cl,C7H8N2O2,moses_wo/best_from_chembl
+NS(=O)(=O)NCc1cc(F)ccc1Br,C7H8N2O2,moses_wo/best_from_chembl
+NS(=O)(=O)NCc1cc(F)cc(Br)c1,C7H8N2O2,moses_wo/best_from_chembl
+NS(=O)(=O)NCc1cc(Br)ccc1F,C7H8N2O2,moses_wo/best_from_chembl
+NS(=O)(=O)Cc1ccc(Cl)cc1Br,C7H8N2O2,moses_wo/best_from_chembl
+NS(=O)(=O)Cc1cc(Br)ccc1Cl,C7H8N2O2,moses_wo/best_from_chembl
+Cc1sc(C)c(S(N)(=O)=O)c1Br,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(S(N)(=O)=O)cc(Br)c1F,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(S(N)(=O)=O)c(F)cc1Br,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(S(N)(=O)=O)c(Br)cc1Cl,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(S(N)(=O)=O)c(Br)cc1Br,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(F)cc(Br)c1S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(F)c(S(N)(=O)=O)cc1Br,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(F)c(S(N)(=O)=O)c(Br)c1,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(F)c(Br)cc1S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(Cl)cc(Br)c1S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(Br)cc(Cl)c1S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(Br)c(S(N)(=O)=O)cc1F,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(Br)c(S(N)(=O)=O)cc1Cl,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(Br)c(F)cc1S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+Cc1cc(Br)c(Cl)cc1S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+Cc1c(S(N)(=O)=O)ccc(Br)c1F,C7H8N2O2,moses_wo/best_from_chembl
+Cc1c(S(N)(=O)=O)ccc(Br)c1Cl,C7H8N2O2,moses_wo/best_from_chembl
+CSc1sc(C(C)=O)c(Br)c1N,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)c1cc(N)cc(Br)c1F,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)c1cc(F)c(N)cc1Br,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)c1cc(Br)c(N)c(Br)c1,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)c1c(N)ccc(Br)c1F,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)c1c(Br)ccc(N)c1F,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)Nc1ccc(Br)cc1F,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)Nc1ccc(Br)c(Cl)c1,C7H8N2O2,moses_wo/best_from_chembl
+CS(=O)(=O)NCc1cc(Br)cs1,C7H8N2O2,moses_wo/best_from_chembl
+CNS(=O)(=O)c1ccc(F)cc1Br,C7H8N2O2,moses_wo/best_from_chembl
+CNS(=O)(=O)c1ccc(Br)cc1Cl,C7H8N2O2,moses_wo/best_from_chembl
+CNS(=O)(=O)c1ccc(Br)cc1Br,C7H8N2O2,moses_wo/best_from_chembl
+CNS(=O)(=O)c1cc(Br)ccc1F,C7H8N2O2,moses_wo/best_from_chembl
+CNS(=O)(=O)c1cc(Br)ccc1Br,C7H8N2O2,moses_wo/best_from_chembl
+CN(C)S(=O)(=O)c1sccc1Br,C7H8N2O2,moses_wo/best_from_chembl
+CN(C)S(=O)(=O)c1cscc1Br,C7H8N2O2,moses_wo/best_from_chembl
+CC(c1sccc1Br)S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+COc1ccc(S(N)(=O)=O)cc1Br,C7H8N2O2,moses_wo/best_from_chembl
+COc1ccc(S(N)(=O)=O)c(Br)c1,C7H8N2O2,moses_wo/best_from_chembl
+COc1ccc(Br)cc1S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+COc1cc(Br)ccc1S(N)(=O)=O,C7H8N2O2,moses_wo/best_from_chembl
+COC(=O)CSc1ncc(Br)c(O)n1,C7H8N2O2,moses_wo/best_from_chembl
+CC1=NS(=O)(=O)c2cc(Br)ccc2N1,C7H8N2O2,moses_wo/best_from_chembl
+CC(=O)Nc1cc(Br)c(N)c(Br)c1,C7H8N2O2,moses_wo/best_from_chembl
+CC(=O)Nc1c(Br)cc(N)cc1Br,C7H8N2O2,moses_wo/best_from_chembl
+CC1CCC(NC(=O)N2CCC(C(=O)N3CCCC(C)C3)CC2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC(=O)N1CCC(C(=O)N2CCN(C(=O)C3CCCCC3)CC2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC(=O)N1CCC2(C(=O)N3CCCC3)CCN(C(=O)C(C)C)CCC12,Pioglitazone MPO,moses_wo/best_from_chembl
+CN(C)C(=O)N1CCC(C(=O)NC2CCCC(C(F)(F)F)C2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(NC1CCCC1)N1CCC2(CCCN(C3CCOCC3)C2=O)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC1(C(=O)N2CCC(C(=O)N3CCOCC3)CC2)CC1(Cl)Cl,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(N1CCOCC1)N1CCN(S(=O)(=O)N2CCOCC2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(C1CCCCC1C(F)(F)F)N1CCN(C2CCCC2O)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C1CCC2(CCN(C(=O)N3CCCC3)CC2)CN1CC1CCCO1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(NC1CCCCC1)N1CCC2(CCCN(c3nncs3)C2)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC(=O)N1CCCN(C(=O)C2CC(=O)N(C3CCCCCC3)C2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(C1CCCCC1)N1CCCC1C(=O)N1CCOC2CCCCC21,Pioglitazone MPO,moses_wo/best_from_chembl
+CC(c1nnc2n1CCCCC2)N1CCN(C(=O)OC(C)(C)C)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC(C)(C)N1CC(C(=O)N2CCC(C(=O)N3CCCC3)CC2)CC1=O,Pioglitazone MPO,moses_wo/best_from_chembl
+CC(=O)N1CC2(CCN(C(=O)CC(C)C)CC2)C2(CCN(C)C2=O)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC1CCCC(CC(=O)N2CCN(C(=O)OC(C)(C)C)CC2C#N)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC1CN(C(=O)C2CCCCC2C(F)(F)F)CC1N1CCOCC1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC1CN(C(=O)C2CCCC(C(F)(F)F)C2)CC1N1CCOCC1,Pioglitazone MPO,moses_wo/best_from_chembl
+CCC(=O)N1CCCN(C(=O)NC2CCCC(C(F)(F)F)C2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC(=O)NC12CC3CC(C1)CC(C(=O)N1CC(C)OC(C)(C)C1)(C3)C2,Pioglitazone MPO,moses_wo/best_from_chembl
+CN(C)C(=O)N1CCN(C(=O)NCc2nnc3n2CCCCC3)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(C1CCOCC1)N1CCC2(CCCN(C3CCCCC3)C2=O)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC1C(=O)OC2C1CCC1(C)CCC(NC(=O)CC(C)(C)C)C(C)C21,Pioglitazone MPO,moses_wo/best_from_chembl
+CN1CCN(C(=O)C2CCCN2C(=O)C2(C)CC2(Cl)Cl)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+NC(=O)N1CCCC1C(=O)N1CCC2(CCC(=O)N(C3CC3)C2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(C1CC(=O)N(C2CCCC2)C1)N1CCC(O)(C(F)(F)F)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC(=O)N1CCC(N2CCN3C(=O)N(C4CCCCC4)CC3C2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+C=CCN1CCC2(CCC1=O)CN(C(=O)N1CCCCC1)CCN2C,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(Nc1nnc(C23CC4CC(CC(C4)C2)C3)s1)N1CCOCC1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC1(C)CC(C(=O)N2CCC3(CCC(=O)N(C4CC4)C3)CC2)CCO1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC1(C)C2CCC1(C(=O)NC1CCCCC1)c1nc(C#N)c(C#N)nc12,Pioglitazone MPO,moses_wo/best_from_chembl
+CC12CCC(C(=O)NC3CCCC3)(c3nc(C#N)c(C#N)nc31)C2(C)C,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(c1ccno1)N1CCCC2(COC(C(=O)N3CCOCC3)C2)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+Cn1nncc1CN1CCN(C(=O)OC(C)(C)C)CC12CCCCC2,Pioglitazone MPO,moses_wo/best_from_chembl
+CC(C)(C)OC(=O)N1CCC(C(=O)N2CCC(n3cncn3)CC2)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC(C)(C)OC(=O)N1CCCC1C(=O)N1CCCC(n2cncn2)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+Cc1cc(C(=O)N2CCN(C(=O)NC3CCC(O)CC3)CC2)c(C)o1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(N1CCOCC1)N1CCCC(S(=O)(=O)N2CCOCC2)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+Cc1cc(C(=O)N2CCN(C(=O)OC(C)(C)C)CC2)c(C)n1C(C)C,Pioglitazone MPO,moses_wo/best_from_chembl
+CN1CCN(C(=O)N2CCCC2)CC12CCC(=O)N(CC1CC1)CC2,Pioglitazone MPO,moses_wo/best_from_chembl
+CC1(C)C2CCC1(C)C(NC(=O)N1CCC(N3CCNC3=O)CC1)C2,Pioglitazone MPO,moses_wo/best_from_chembl
+CC1CN(C2CCN(C(=O)c3cn(C)nc3C(C)(C)C)CC2)CCO1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC(C)(C)C(=O)N1CCN(c2cc(N3CCOCC3)nc(N)n2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+Cc1nn(C(C)(C)C)c(C)c1C(=O)N1CC(C)C(N2CCOCC2)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+Cc1nn(C(C)(C)C)c(C)c1C(=O)N1CCN(C2CCCC2O)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC1CN(c2nc3nonc3nc2N2CC(C)OC(C)C2)CC(C)O1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(NCC1CN2CCCCC2CO1)N1CCCC2(CC=CCC2)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(N1CCCC1)N1CCCC2(CC(Nc3ncc(F)cn3)CO2)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(NC1CC1)N1CCCC2(COCCN(c3ncc(F)cn3)C2)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(NC1CCCCCC1)N1CCCN(C(=O)c2ccsc2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+COC1CCCOC12CCN(C(=O)c1scc3c1CCCC3)CC2,Pioglitazone MPO,moses_wo/best_from_chembl
+Cc1nn(C)c2nc(N3CCC(C(=O)N4CCOCC4)CC3)sc12,Pioglitazone MPO,moses_wo/best_from_chembl
+Cc1nn(C)c2nc(N3CCCN(C(=O)C4CCCO4)CC3)sc12,Pioglitazone MPO,moses_wo/best_from_chembl
+Cc1nn(C)c2nc(N3CCCC(C(=O)N4CCOCC4)C3)sc12,Pioglitazone MPO,moses_wo/best_from_chembl
+COC(=O)CNC(=O)N1CCC2=NC=NC2C12CCN(C(C)=O)CC2,Pioglitazone MPO,moses_wo/best_from_chembl
+Cc1csc(-n2nnc(C(=O)N3CCC4(CC3)OCCO4)c2C)n1,Pioglitazone MPO,moses_wo/best_from_chembl
+Cc1nc(C)c(C(=O)N2CCC(C(=O)N3CCC(C)CC3)CC2)s1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC(C)(C)OC(=O)N1CCN(C(=O)CN2CCCS2(=O)=O)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+COC(=O)C1CCN(C(=O)c2oc3c(c2C)C(O)CC(C)(C)C3)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+CNC(=O)c1cc2c(s1)CCN(C(=O)C1CCCN(C(C)=O)C1)C2,Pioglitazone MPO,moses_wo/best_from_chembl
+CC1CN(C(=O)c2nc3c(s2)CCCN3C(=O)C2CC2)CC(C)O1,Pioglitazone MPO,moses_wo/best_from_chembl
+Cc1ccsc1C1(C(=O)N2CC3CC(O)C(O)CC3C2)CC1(C)C,Pioglitazone MPO,moses_wo/best_from_chembl
+CC(=O)c1c(C)[nH]c(C(=O)N2CCN(C(=O)OC(C)(C)C)CC2)c1C,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(Nc1c(F)cc(Br)cc1F)NC1CCC(O)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC1(NC(=O)Nc2cc(F)c(Br)cc2F)CCOCC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(C1CCCO1)N1CCOC2(COCCN(c3ncccn3)C2)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(c1ccoc1)N1CCC(C(=O)N2CCC3(CC2)OCCO3)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(c1ccco1)N1CCC(C(=O)N2CCC3(CC2)OCCO3)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+Cc1n[nH]c(C)c1C1CCCCCN1C(=O)NC1CC(C)OC(C)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC(C)(C)NC(=O)N1CCN(c2cc(N3CCOCC3)ncn2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(c1csc2c1CCCO2)N1CCC(C(=O)N2CCCC2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(c1cc2c(s1)CCCC2)N1CCN(C(=O)C2CCCO2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(c1cc2c(s1)CCC2)N1CCCC(C(=O)N2CCOCC2)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(c1cc2c(s1)CCC(C(=O)N1CCOCC1)C2)N1CCCC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(C1CCCN1C(=O)c1csc2c1CCCO2)N1CCCCC1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC1(C)C2CCC1(C)C(NC(=O)N1CCC(N3CCCC3=O)CC1)C2,Pioglitazone MPO,moses_wo/best_from_chembl
+CC1CN(C(=O)c2ccn(C(C)(C)C)c2)CCC1(O)C1CCOCC1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC(=O)N1CCC2(CC1)OC(=O)C(C)=C2C(=O)NC1CCCCCC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(c1csc2c1CCCO2)N1CCCN(C(=O)C2CCC2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+Cn1nc(C(C)(C)C)cc1C(=O)N1CCN(C(=O)C2CCCO2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+Cn1cc(C(=O)N2CCN(C(=O)C3CCCO3)CC2)c(C(C)(C)C)n1,Pioglitazone MPO,moses_wo/best_from_chembl
+CC12CCC(C)(C(NC(=O)C34CCC(C)(C(=O)O3)C4(C)C)C1)C2(C)C,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(c1cnc(N2CCC3CCCCC32)c(Cl)c1)N1CCOCC1,Pioglitazone MPO,moses_wo/best_from_chembl
+Nc1cc2c(c(S(=O)(=O)C3CCCCC3)c1)CC(C(F)(F)F)O2,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(C1CCCN(c2nnc3c(Cl)cccn23)C1)N1CCOCC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(Nc1ccc(Cl)cc1C(=O)N1CCCC1)N1CCCCCC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(c1nc(N2CCOCC2)ncc1Cl)N1CCCn2ncnc21,Pioglitazone MPO,moses_wo/best_from_chembl
+CSc1nnc(-c2nn(C)c3c2CN(C(=O)C(C)(C)C)CC3)n1C,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(N1CCOCC1)N1CCN(S(=O)(=O)N2CCCCC2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(N1CCCCC1)N1CCN(S(=O)(=O)N2CCOCC2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+NC(=O)N1CCCN(C(=O)C2(c3cccc(Cl)c3)CCCC2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(C1CCCCC1C(F)(F)F)N1CCC(N2CCNC2=O)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(C1CCCC(C(F)(F)F)C1)N1CCC(N2CCNC2=O)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+CN1CCN(C(=O)C2CCCN2c2nc(C(F)(F)F)cs2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(C1CCCO1)N1CCN(C(=O)C23CC4CC(CC(C4)C2)C3)CC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(C1CCCN1C(=O)C12CC3CC(CC(C3)C1)C2)N1CCOCC1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(C1CCCN1C(=O)C12CC3CC(CC(C3)C1)C2)N1CCC(O)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(C1CCCO1)N1CCOC2(CCCN(c3ncccc3F)C2)C1,Pioglitazone MPO,moses_wo/best_from_chembl
+O=C(CN1CCC(C(F)(F)F)(C(F)(F)F)C1)N1CCCCCC1,Pioglitazone MPO,moses_wo/best_from_chembl
+CN1CCN(C(=O)C2CC3CCN(c4ncc(F)cn4)CC3O2)CC1,Pioglitazone MPO,moses_wo/best_from_chembl

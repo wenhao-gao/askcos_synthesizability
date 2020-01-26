@@ -1,0 +1,401 @@
+SMILES,property,source
+c1noc(Cc2noc(Cc3ccsc3)n2)n1,CNS MPO,moses_wo/smiles_lstm
+c1nc(OC2CCCCC2)c2nnnn2n1,CNS MPO,moses_wo/smiles_lstm
+c1csc(Sc2cc(-n3cncn3)ncn2)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(Cn2nnnc2Sc2ccnc3cccnc23)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(Cn2nnnc2SCc2csc3cccnc23)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(Cn2nnnc2SCc2coc3ccccc23)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(Cn2nnnc2-c2csc3ccsc23)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(Cn2ncc(-c3noc(-c4ccncc4)n3)n2)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(Cc2noc(Cn3nnc(-c4ccsc4)n3)n2)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(Cc2noc(Cn3cnc4sccc43)n2)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(Cc2noc(Cn3ccnc3SCC3CC3)n2)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(Cc2noc(CSc3ncnc4ccccc34)n2)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(Cc2noc(-n3ccnc3C3CCCCC3)n2)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(Cc2noc(-c3ccc4ccnnc4n3)n2)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(Cc2noc(-c3ccc(COc4csnn4)cc3)n2)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(Cc2nnc(COc3ccc4c(c3)OCCO4)o2)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(Cc2nc(Cc3nnco3)cs2)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(-c2noc(CSc3nnc(-c4ccsc4)o3)n2)c1,CNS MPO,moses_wo/smiles_lstm
+c1csc(-c2noc(COc3nnc4n3CCCCC4)n2)c1,CNS MPO,moses_wo/smiles_lstm
+c1coc(Cn2nnnc2SCc2nnc3n2CCCCC3)c1,CNS MPO,moses_wo/smiles_lstm
+c1coc(Cn2nnnc2SCc2nc3ccccc3o2)c1,CNS MPO,moses_wo/smiles_lstm
+c1coc(Cc2nnnn2Cc2csc(-c3ccoc3)n2)c1,CNS MPO,moses_wo/smiles_lstm
+c1coc(-n2nnnc2SCc2cscn2)c1,CNS MPO,moses_wo/smiles_lstm
+c1coc(-c2nnsc2Cn2nnnc2-c2cccs2)c1,CNS MPO,moses_wo/smiles_lstm
+c1coc(-c2nnc(Oc3ccnc(C4CC4)n3)o2)c1,CNS MPO,moses_wo/smiles_lstm
+c1coc(-c2ncc(-c3nc(-c4cccs4)no3)s2)c1,CNS MPO,moses_wo/smiles_lstm
+c1cncc(Cc2noc(Cc3noc4ccccc34)n2)c1,CNS MPO,moses_wo/smiles_lstm
+c1cncc(-c2nnc(Cn3cc(-c4ccsc4)nn3)o2)c1,CNS MPO,moses_wo/smiles_lstm
+c1cnc(SCc2nnc3n2CCCCCC3)nc1,CNS MPO,moses_wo/smiles_lstm
+c1ccn2c(Cc3csc(-c4ccncc4)n3)nnc2c1,CNS MPO,moses_wo/smiles_lstm
+c1ccc2nc(Cc3cc(Oc4nncs4)no3)ccc2c1,CNS MPO,moses_wo/smiles_lstm
+c1ccc2c(c1)ncn2Cc1ncns1,CNS MPO,moses_wo/smiles_lstm
+c1ccc2c(Cc3nnnn3CCc3nccs3)snc2c1,CNS MPO,moses_wo/smiles_lstm
+c1ccc(N2CCC3(COCCN(c4ncccn4)C3)C2)cc1,CNS MPO,moses_wo/smiles_lstm
+c1ccc(-n2nnnc2Sc2ccncn2)cc1,CNS MPO,moses_wo/smiles_lstm
+c1ccc(-n2nnnc2Sc2cccc3cccnc23)cc1,CNS MPO,moses_wo/smiles_lstm
+c1ccc(-n2nnnc2SCc2cn3cccnc3n2)cc1,CNS MPO,moses_wo/smiles_lstm
+c1ccc(-n2nnnc2Cc2cnc3ccccc3n2)cc1,CNS MPO,moses_wo/smiles_lstm
+c1ccc(-n2nnnc2-c2cccnc2-c2cccnc2)cc1,CNS MPO,moses_wo/smiles_lstm
+c1ccc(-c2nonc2-c2ccc3cnccc3c2)cc1,CNS MPO,moses_wo/smiles_lstm
+c1ccc(-c2noc(CSc3ncnn3C3CC3)n2)cc1,CNS MPO,moses_wo/smiles_lstm
+c1ccc(-c2nnc3sc(-c4ccsc4)nn23)cc1,CNS MPO,moses_wo/smiles_lstm
+c1cc(-c2nnsc2SCc2csnn2)cs1,CNS MPO,moses_wo/smiles_lstm
+c1cc(-c2nnnn2-c2csnn2)cs1,CNS MPO,moses_wo/smiles_lstm
+O=c1onnn1Cc1ccc2c(c1)OCCCO2,CNS MPO,moses_wo/smiles_lstm
+O=c1onnn1-c1ccccc1OCc1ccccc1,CNS MPO,moses_wo/smiles_lstm
+O=c1onc(-c2nncs2)n1-c1ccccc1Cl,CNS MPO,moses_wo/smiles_lstm
+O=c1onc(-c2nnc3n2CCCCC3)n1-c1ccccc1,CNS MPO,moses_wo/smiles_lstm
+O=c1onc(-c2ncon2)n1-c1ccccc1,CNS MPO,moses_wo/smiles_lstm
+O=c1onc(-c2ncccn2)n1-c1cccc(OC(F)F)c1,CNS MPO,moses_wo/smiles_lstm
+O=c1onc(-c2ncccn2)n1-c1cccc(Cl)c1,CNS MPO,moses_wo/smiles_lstm
+O=c1onc(-c2ncccn2)n1-c1ccc(F)c(F)c1,CNS MPO,moses_wo/smiles_lstm
+O=c1onc(-c2cscn2)n1-c1cccc(Cl)c1,CNS MPO,moses_wo/smiles_lstm
+O=c1onc(-c2cnccn2)n1-c1cc(Cl)ccc1Cl,CNS MPO,moses_wo/smiles_lstm
+O=c1onc(-c2ccsc2)n1S(=O)(=O)c1ccc(F)cc1,CNS MPO,moses_wo/smiles_lstm
+O=c1onc(-c2ccoc2)n1Cc1cnc2sccn12,CNS MPO,moses_wo/smiles_lstm
+O=c1onc(-c2ccnnc2)n1-c1ccccc1Cl,CNS MPO,moses_wo/smiles_lstm
+O=c1onc(-c2ccncc2)n1Cc1ccccc1F,CNS MPO,moses_wo/smiles_lstm
+O=c1onc(-c2ccco2)n1CCOc1ccc(Cl)cc1,CNS MPO,moses_wo/smiles_lstm
+O=c1on2nc(-c3ccncc3)nc2cc1Br,CNS MPO,moses_wo/smiles_lstm
+O=c1oc2cccnc2n1Cc1ccc(F)cc1,CNS MPO,moses_wo/smiles_lstm
+O=c1oc2ccccc2n1S(=O)(=O)c1cccs1,CNS MPO,moses_wo/smiles_lstm
+O=c1oc2ccccc2n1-c1cc(-c2cccs2)nc2cnnn12,CNS MPO,moses_wo/smiles_lstm
+O=c1oc2ccc(F)cc2n1Cc1cnn(-c2ccccc2)c1,CNS MPO,moses_wo/smiles_lstm
+O=c1oc2cc(Cl)ccc2c(=O)n1-c1ccccc1F,CNS MPO,moses_wo/smiles_lstm
+O=c1oc(=O)c2cc3ccsc3c(=O)n2o1,CNS MPO,moses_wo/smiles_lstm
+O=c1oc(-c2ccncc2)nnc1N1CCOc2ccccc21,CNS MPO,moses_wo/smiles_lstm
+O=c1oc(-c2cccnc2)nn1Cc1csc(-c2ccoc2)n1,CNS MPO,moses_wo/smiles_lstm
+O=c1oc(-c2cccnc2)nc2sc3c(c12)OCC3,CNS MPO,moses_wo/smiles_lstm
+O=c1oc(-c2ccccn2)nn1Cc1nc2ccccc2s1,CNS MPO,moses_wo/smiles_lstm
+O=c1cnn2c(=O)c(=Cc3ccccc3Br)sc2n1,CNS MPO,moses_wo/smiles_lstm
+O=c1cnn(-c2ccccc2Sc2ncccn2)cn1,CNS MPO,moses_wo/smiles_lstm
+O=c1cc(-c2cccs2)n(-c2ccccc2)c(=O)o1,CNS MPO,moses_wo/smiles_lstm
+O=c1c2ccncc2ncn1Cc1cccc(Cl)c1,CNS MPO,moses_wo/smiles_lstm
+O=c1c2ccccc2cnn1Cc1nnnn1-c1ccccc1,CNS MPO,moses_wo/smiles_lstm
+O=S(=O)(c1cncs1)N1CCCC(c2cncnc2)C1,CNS MPO,moses_wo/smiles_lstm
+O=S(=O)(c1cccs1)N1CCn2nnc(-c3ccccc3)c2C1,CNS MPO,moses_wo/smiles_lstm
+O=S(=O)(c1ccc2c(c1)OCCO2)n1cc(-c2cccs2)nn1,CNS MPO,moses_wo/smiles_lstm
+O=C(c1csnn1)N1CCOc2ccccc21,CNS MPO,moses_wo/smiles_lstm
+O=C(c1ccnc(OCc2ccccc2)c1)N1CCOCC1,CNS MPO,moses_wo/smiles_lstm
+O=C(c1ccco1)N1CCCC(c2nnc(C(F)(F)F)o2)C1,CNS MPO,moses_wo/smiles_lstm
+O=C(Cn1nnc(-c2ccc(F)cc2F)n1)N1CCOCC1,CNS MPO,moses_wo/smiles_lstm
+O=C(CSc1nnnn1-c1cccc(Cl)c1)N1CCCC1,CNS MPO,moses_wo/smiles_lstm
+N#Cc1cccc(C(=O)OCC(=O)N2CCc3ccccc32)c1,CNS MPO,moses_wo/smiles_lstm
+N#CC1CN(Cc2ccccc2Sc2ncccn2)CCO1,CNS MPO,moses_wo/smiles_lstm
+Cn1cc(-c2nc(-c3ccco3)cs2)cc(F)c1=O,CNS MPO,moses_wo/smiles_lstm
+Cc1nnc(SCC(=O)c2ccccc2Cl)o1,CNS MPO,moses_wo/smiles_lstm
+Cc1cccc2nc(COC3CCOC3)oc12,CNS MPO,moses_wo/smiles_lstm
+Cc1ccc(-n2nc(C)c3c(C)cc(=O)oc32)cc1C,CNS MPO,moses_wo/smiles_lstm
+Cc1ccc(-c2nc(C#N)c(N3CC(C)OC(C)C3)o2)cc1,CNS MPO,moses_wo/smiles_lstm
+Cc1cc(-c2nc3ccccc3c(=O)o2)c(C#N)o1,CNS MPO,moses_wo/smiles_lstm
+COc1ccccc1OC1Cn2c(cccc2=O)C1=O,CNS MPO,moses_wo/smiles_lstm
+COc1ccccc1C(=O)OCCCn1nc2ccccn2c1=O,CNS MPO,moses_wo/smiles_lstm
+COc1cc(Sc2nnc(-c3ccncc3)n2C2CC2)ccc1F,CNS MPO,moses_wo/smiles_lstm
+COCC(=O)c1cccc(S(=O)(=O)N2CCOC(C)C2)c1,CNS MPO,moses_wo/smiles_lstm
+CN(C)S(=O)(=O)N1CCN(S(=O)(=O)Cc2ccccc2)CC1,CNS MPO,moses_wo/smiles_lstm
+CCOCCc1nnc(SCc2noc(C)n2)o1,CNS MPO,moses_wo/smiles_lstm
+CCCN(Cc1ccccc1)C(=O)c1ccc2nc(C)c(C)nc2c1,CNS MPO,moses_wo/smiles_lstm
+CCC(CC)n1ncc(-c2nc(-c3ccncc3)no2)c1C,CNS MPO,moses_wo/smiles_lstm
+CC(=O)c1cnc2cc(-c3ccc(Cl)cc3)nn2c1C,CNS MPO,moses_wo/smiles_lstm
+CC1CCc2c(sc3ncn(C(CO)C(C)C)c(=O)c23)C1,QED,moses_wo/smiles_lstm
+CC(NC(=O)c1cnn2c1OCCC2)c1ccccc1Cl,QED,moses_wo/smiles_lstm
+Cc1cn(-c2ccccc2Cl)nc1NC(=O)C1CCOC1,QED,moses_wo/smiles_lstm
+Cc1nn(CC(=O)Nc2ccc3c(c2)COC3)c(C)c1Cl,QED,moses_wo/smiles_lstm
+COc1ccc(Cl)cc1C(=O)Nc1c2c(nn1C)CCC2,QED,moses_wo/smiles_lstm
+CCNC(=O)N1CCC(Oc2nc3ccccc3s2)CC1,QED,moses_wo/smiles_lstm
+O=C(NCc1ccc(F)cc1Cl)c1cc2c(cn1)OCC2,QED,moses_wo/smiles_lstm
+O=C(NCc1c(F)cccc1Cl)c1cc2c(cn1)OCC2,QED,moses_wo/smiles_lstm
+CC(NC(=O)c1cnccn1)c1ccccc1Br,QED,moses_wo/smiles_lstm
+CC(NC(=O)c1cnccn1)c1cccc(Br)c1,QED,moses_wo/smiles_lstm
+CC(NC(=O)c1cnccn1)c1ccc(Br)cc1,QED,moses_wo/smiles_lstm
+CC(NC(=O)c1cncc(Br)c1)c1ccncc1,QED,moses_wo/smiles_lstm
+CC(NC(=O)c1cncc(Br)c1)c1cccnc1,QED,moses_wo/smiles_lstm
+CC(NC(=O)c1cncc(Br)c1)c1ccccn1,QED,moses_wo/smiles_lstm
+Cc1ccnc(NC(=O)Cc2ccc(Br)cc2)n1,QED,moses_wo/smiles_lstm
+O=C(Nc1cnn(C2CCOCC2)c1)c1ccc(F)cc1F,QED,moses_wo/smiles_lstm
+O=C(Nc1cnn(C2CCOCC2)c1)c1ccc(F)c(F)c1,QED,moses_wo/smiles_lstm
+O=C(Nc1cnn(C2CCOCC2)c1)c1cc(F)ccc1F,QED,moses_wo/smiles_lstm
+O=C(Nc1cnn(C2CCOCC2)c1)c1cc(F)cc(F)c1,QED,moses_wo/smiles_lstm
+O=C(Nc1cnn(C2CCOCC2)c1)c1c(F)cccc1F,QED,moses_wo/smiles_lstm
+COc1c(F)ccc(C(=O)Nc2cnc3n2CCCC3)c1F,QED,moses_wo/smiles_lstm
+OCc1nnn(-c2cccc(Br)c2)c1C1CCC1,QED,moses_wo/smiles_lstm
+OCc1nnn(-c2ccc(Br)cc2)c1C1CCC1,QED,moses_wo/smiles_lstm
+Cc1cc(Br)ccc1-c1c(CO)nnn1C1CC1,QED,moses_wo/smiles_lstm
+O=C(Nc1cccc(Cl)c1-n1cccn1)C1CCOCC1,QED,moses_wo/smiles_lstm
+O=C(Nc1cc(Cl)ccc1-n1cccn1)C1CCOCC1,QED,moses_wo/smiles_lstm
+N#CCCn1nc(-c2c(F)cccc2Cl)c2c1CCNC2,QED,moses_wo/smiles_lstm
+O=C(c1cccnc1-c1cccc(CO)c1)N1CC2CCC1C2,QED,moses_wo/smiles_lstm
+O=C(c1cccnc1-c1ccc(CO)cc1)N1CC2CCC1C2,QED,moses_wo/smiles_lstm
+COc1cc(C)sc1C(=O)N1CCC(c2ccn[nH]2)CC1,QED,moses_wo/smiles_lstm
+CCc1cnccc1C(=O)NC1CC12CCOc1ccccc12,QED,moses_wo/smiles_lstm
+CC(C)n1nccc1NC(=O)C1COc2ccc(F)cc2C1,QED,moses_wo/smiles_lstm
+CC(C)n1cc(NC(=O)C2COc3ccc(F)cc3C2)cn1,QED,moses_wo/smiles_lstm
+COCc1csc(NC(=O)N2CCc3ccccc3C2)n1,QED,moses_wo/smiles_lstm
+O=C(c1cccnc1-c1ccc(CO)cc1)N1CC2CCC2C1,QED,moses_wo/smiles_lstm
+CCCn1nc(-c2ccc(Br)c(O)c2)ccc1=O,QED,moses_wo/smiles_lstm
+O=S(=O)(Nc1ccc(F)cn1)c1cccc(Cl)c1F,QED,moses_wo/smiles_lstm
+O=S(=O)(Nc1ccc(F)cn1)c1ccc(Cl)cc1F,QED,moses_wo/smiles_lstm
+O=S(=O)(Nc1ccc(F)cn1)c1c(F)cccc1Cl,QED,moses_wo/smiles_lstm
+O=S(=O)(Nc1ccc(Cl)cn1)c1ccc(F)cc1F,QED,moses_wo/smiles_lstm
+O=S(=O)(Nc1ccc(Cl)cn1)c1ccc(F)c(F)c1,QED,moses_wo/smiles_lstm
+O=S(=O)(Nc1ccc(Cl)cn1)c1cc(F)ccc1F,QED,moses_wo/smiles_lstm
+O=S(=O)(Nc1ccc(Cl)cn1)c1c(F)cccc1F,QED,moses_wo/smiles_lstm
+O=C(Nc1nnc(Cc2ccccc2F)s1)N1CCCC1,QED,moses_wo/smiles_lstm
+O=C(Nc1nnc(Cc2cccc(F)c2)s1)N1CCCC1,QED,moses_wo/smiles_lstm
+O=C(Nc1nnc(Cc2ccc(F)cc2)s1)N1CCCC1,QED,moses_wo/smiles_lstm
+O=C(c1csc(-c2ccsc2)n1)N1CCC(CO)CC1,QED,moses_wo/smiles_lstm
+O=C(c1csc(-c2cccs2)n1)N1CCC(CO)CC1,QED,moses_wo/smiles_lstm
+COc1ccc(Cl)cc1C(N)c1c(C)cc(C)n(C)c1=O,QED,moses_wo/smiles_lstm
+CCc1cc(=O)[nH]c(-c2ccc(OC)c(Br)c2)n1,QED,moses_wo/smiles_lstm
+O=C(NCc1cc(F)cc2c1OCOC2)c1ccccc1F,QED,moses_wo/smiles_lstm
+O=C(NCc1cc(F)cc2c1OCOC2)c1cccc(F)c1,QED,moses_wo/smiles_lstm
+O=C(NCc1cc(F)cc2c1OCOC2)c1ccc(F)cc1,QED,moses_wo/smiles_lstm
+Cc1nc(C2CCCN(Cc3sccc3C)C2)cc(=O)[nH]1,QED,moses_wo/smiles_lstm
+Cc1ccc(-n2nnc(CO)c2C2CC2)cc1Br,QED,moses_wo/smiles_lstm
+Cc1cc(C)n(-c2ccc(NC(=O)C3CCCO3)cc2F)n1,QED,moses_wo/smiles_lstm
+Cc1cc2n(n1)CCCN2CC(=O)Nc1ccccc1Cl,QED,moses_wo/smiles_lstm
+Cc1cc2n(n1)CCCN2CC(=O)Nc1cccc(Cl)c1,QED,moses_wo/smiles_lstm
+Cc1cc2n(n1)CCCN2CC(=O)Nc1ccc(Cl)cc1,QED,moses_wo/smiles_lstm
+O=S(=O)(c1cccc(-c2ccccc2O)c1)N1CCCC1,QED,moses_wo/smiles_lstm
+O=S(=O)(c1cccc(-c2cccc(O)c2)c1)N1CCCC1,QED,moses_wo/smiles_lstm
+O=S(=O)(c1cccc(-c2ccc(O)cc2)c1)N1CCCC1,QED,moses_wo/smiles_lstm
+O=S(=O)(c1ccc(-c2ccccc2O)cc1)N1CCCC1,QED,moses_wo/smiles_lstm
+O=S(=O)(c1ccc(-c2cccc(O)c2)cc1)N1CCCC1,QED,moses_wo/smiles_lstm
+O=S(=O)(c1ccc(-c2ccc(O)cc2)cc1)N1CCCC1,QED,moses_wo/smiles_lstm
+Cc1cc(CNC(=O)C2COc3ccc(F)cc3C2)c(C)o1,QED,moses_wo/smiles_lstm
+Cc1csc(CNC(=O)C2Cc3cc(Cl)ccc3O2)n1,QED,moses_wo/smiles_lstm
+Cc1csc(CNC(=O)C2Cc3c(Cl)cccc3O2)n1,QED,moses_wo/smiles_lstm
+O=C1NCCCCC1Sc1nccn1-c1cccc(F)c1,QED,moses_wo/smiles_lstm
+O=C(CC(F)(F)F)Nc1ccn(-c2ncccc2Cl)n1,QED,moses_wo/smiles_lstm
+CCOc1ccc2cc(C(=O)N3CCOCC3(C)C)[nH]c2c1,QED,moses_wo/smiles_lstm
+CCOc1ccc2cc(C(=O)N3CCOC(C)(C)C3)[nH]c2c1,QED,moses_wo/smiles_lstm
+O=C(NC1CCC(n2cnnc2)CC1)c1ccc(Cl)cc1,QED,moses_wo/smiles_lstm
+CS(=O)(=O)c1ccc(Cl)cc1C(O)c1cccs1,QED,moses_wo/smiles_lstm
+COc1ccc(Cl)cc1-c1ccc(C(C)(C)O)c(=O)n1C,QED,moses_wo/smiles_lstm
+COc1ccc(-c2ccc(C(C)(C)O)c(=O)n2C)cc1Cl,QED,moses_wo/smiles_lstm
+O=C(Cn1cncn1)Nc1c(Cl)cc(Cl)cc1Cl,QED,moses_wo/smiles_lstm
+O=C(NCc1ccccc1Cl)C1COc2ccccc2O1,QED,moses_wo/smiles_lstm
+O=C(NCc1cccc(Cl)c1)C1COc2ccccc2O1,QED,moses_wo/smiles_lstm
+O=C(NCc1ccc(Cl)cc1)C1COc2ccccc2O1,QED,moses_wo/smiles_lstm
+CCc1nc2n(n1)CCCC2NC(=O)c1cc(C)sc1C,QED,moses_wo/smiles_lstm
+Nc1ccc(-c2ccc(Cl)cc2)n(CC2CCCO2)c1=O,QED,moses_wo/smiles_lstm
+Cc1cn(-c2ccccc2Cl)nc1NC(=O)C1CCCO1,QED,moses_wo/smiles_lstm
+Cc1cc(NC(=O)C2CCCO2)n(-c2ccccc2Cl)n1,QED,moses_wo/smiles_lstm
+Cc1cc(NC(=O)C2CCCO2)n(-c2cccc(Cl)c2)n1,QED,moses_wo/smiles_lstm
+Cc1cc(NC(=O)C2CCCO2)n(-c2ccc(Cl)cc2)n1,QED,moses_wo/smiles_lstm
+CCc1nc2n(n1)CCCC2NC(=O)c1ccccc1Cl,QED,moses_wo/smiles_lstm
+CCc1nc2n(n1)CCCC2NC(=O)c1cccc(Cl)c1,QED,moses_wo/smiles_lstm
+CCc1nc2n(n1)CCCC2NC(=O)c1ccc(Cl)cc1,QED,moses_wo/smiles_lstm
+O=S(=O)(Nc1ccc2c(c1)CCCO2)c1cccc(F)c1,QED,moses_wo/smiles_lstm
+CC(C#N)N1CCCC(NC(=O)c2ccc3ccccc3c2)C1,QED,moses_wo/smiles_lstm
+CCC1CN(C(=O)c2cc(-c3csc(C)n3)c[nH]2)CCO1,QED,moses_wo/smiles_lstm
+CCC1CN(C(=O)c2cc(-c3ccc(C)s3)[nH]n2)CCO1,QED,moses_wo/smiles_lstm
+Cn1cc(C(=O)Nc2cc(F)ccc2N2CCCCC2)cn1,QED,moses_wo/smiles_lstm
+N#Cc1ccc(N2CCC(NC(=O)c3ccccc3)CC2)cc1,QED,moses_wo/smiles_lstm
+COc1cccc2c1OCC(NC(=O)c1sccc1C)C2,QED,moses_wo/smiles_lstm
+COc1cccc2c1OCC(NC(=O)c1ccc(C)s1)C2,QED,moses_wo/smiles_lstm
+Cc1cnc(NC(=O)C(C)n2ccc(C(F)(F)F)n2)s1,QED,moses_wo/smiles_lstm
+COc1ccc(F)cc1NC(=O)C1Cc2cccc(F)c2O1,QED,moses_wo/smiles_lstm
+COc1ccc(F)cc1NC(=O)C1Cc2cc(F)ccc2O1,QED,moses_wo/smiles_lstm
+Cc1nccc(O)c1C(N)=O,C7H8N2O2,moses_wo/smiles_lstm
+COc1ncccc1C(N)=O,C7H8N2O2,moses_wo/smiles_lstm
+OCCOc1ccc(Cl)cn1,C7H8N2O2,moses_wo/smiles_lstm
+OCC(O)c1cc(Br)ccn1,C7H8N2O2,moses_wo/smiles_lstm
+O=c1ccc(Br)cn1CCO,C7H8N2O2,moses_wo/smiles_lstm
+O=c1cc(Cl)ccn1CCO,C7H8N2O2,moses_wo/smiles_lstm
+O=c1cc(Br)ccn1CCO,C7H8N2O2,moses_wo/smiles_lstm
+O=c1c(Br)cccn1CCO,C7H8N2O2,moses_wo/smiles_lstm
+Nc1ccccc1S(N)(=O)=O,C7H8N2O2,moses_wo/smiles_lstm
+NS(=O)(=O)Cc1cccnc1,C7H8N2O2,moses_wo/smiles_lstm
+NC(=O)Oc1cccc(N)c1Br,C7H8N2O2,moses_wo/smiles_lstm
+NC(=O)Cn1cccc(Br)c1=O,C7H8N2O2,moses_wo/smiles_lstm
+NC(=O)Cn1ccc(Br)cc1=O,C7H8N2O2,moses_wo/smiles_lstm
+NC(=O)Cc1[nH]ccc(=O)c1Br,C7H8N2O2,moses_wo/smiles_lstm
+NC(=O)COc1cncc(Br)c1,C7H8N2O2,moses_wo/smiles_lstm
+Cc1oc(C)c(C(N)=O)c1Br,C7H8N2O2,moses_wo/smiles_lstm
+Cc1ncccc1S(N)(=O)=O,C7H8N2O2,moses_wo/smiles_lstm
+Cc1ccncc1S(N)(=O)=O,C7H8N2O2,moses_wo/smiles_lstm
+Cc1cccnc1S(N)(=O)=O,C7H8N2O2,moses_wo/smiles_lstm
+Cc1cc(O)n(C)c(=O)c1Br,C7H8N2O2,moses_wo/smiles_lstm
+Cc1cc(O)c(O)c(Br)c1N,C7H8N2O2,moses_wo/smiles_lstm
+Cc1cc(Br)c(O)c(O)c1N,C7H8N2O2,moses_wo/smiles_lstm
+Cc1cc(Br)c(N)c(O)c1O,C7H8N2O2,moses_wo/smiles_lstm
+Cc1cc(Br)c(=O)n(C)c1O,C7H8N2O2,moses_wo/smiles_lstm
+Cc1cc(=O)c(Br)cn1C(N)=O,C7H8N2O2,moses_wo/smiles_lstm
+Cc1c(Br)cc(N)c(O)c1O,C7H8N2O2,moses_wo/smiles_lstm
+Cc1c(Br)c[nH]c(=O)c1C(N)=O,C7H8N2O2,moses_wo/smiles_lstm
+Cc1[nH]c(=O)c(C(N)=O)cc1Br,C7H8N2O2,moses_wo/smiles_lstm
+CS(=O)(=O)c1cccnc1N,C7H8N2O2,moses_wo/smiles_lstm
+COc1ncccc1S(N)=O,C7H8N2O2,moses_wo/smiles_lstm
+COc1nccc(Br)c1OC,C7H8N2O2,moses_wo/smiles_lstm
+COc1nccc(Br)c1CO,C7H8N2O2,moses_wo/smiles_lstm
+COc1nccc(Br)c1C(N)=O,C7H8N2O2,moses_wo/smiles_lstm
+COc1ncc(Br)cc1CO,C7H8N2O2,moses_wo/smiles_lstm
+COc1ncc(Br)cc1C(N)=O,C7H8N2O2,moses_wo/smiles_lstm
+COc1nc(OC)c(Br)c(N)c1Cl,C7H8N2O2,moses_wo/smiles_lstm
+COc1nc(OC)c(Br)c(N)c1Br,C7H8N2O2,moses_wo/smiles_lstm
+COc1nc(OC)c(Br)c(Br)c1N,C7H8N2O2,moses_wo/smiles_lstm
+COc1nc(N)c(CO)c(Br)c1Br,C7H8N2O2,moses_wo/smiles_lstm
+COc1nc(CO)ccc1Br,C7H8N2O2,moses_wo/smiles_lstm
+COc1nc(CO)c(Br)c(Br)c1N,C7H8N2O2,moses_wo/smiles_lstm
+COc1nc(C(N)=O)ccc1Br,C7H8N2O2,moses_wo/smiles_lstm
+COc1cn(C)c(Br)cc1=O,C7H8N2O2,moses_wo/smiles_lstm
+COc1ccnc(OC)c1Br,C7H8N2O2,moses_wo/smiles_lstm
+COc1ccc(O)c(Br)c1N,C7H8N2O2,moses_wo/smiles_lstm
+COc1ccc(N)c(Br)c1O,C7H8N2O2,moses_wo/smiles_lstm
+COc1ccc(Br)nc1C(N)=O,C7H8N2O2,moses_wo/smiles_lstm
+COc1ccc(Br)c(OC)n1,C7H8N2O2,moses_wo/smiles_lstm
+COc1ccc(Br)c(O)c1N,C7H8N2O2,moses_wo/smiles_lstm
+COc1ccc(Br)c(N)c1O,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(O)cc(Br)c1N,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(O)c(N)cc1Br,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(O)c(N)c(Br)c1,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(O)c(Br)cc1N,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(N)cc(Br)c1O,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(N)c(O)c(Br)c1,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(N)c(Br)cc1O,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(N)c(Br)c(O)c1,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(C)nc(O)c1Br,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(C(N)=O)c(Br)cn1,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(Br)cnc1OC,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(Br)cnc1CO,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(Br)cnc1C(N)=O,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(Br)cn(C)c1=O,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(Br)cc(N)c1O,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(Br)cc(=O)n1C,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(Br)c(N)cc1O,C7H8N2O2,moses_wo/smiles_lstm
+COc1cc(Br)c(C)nc1O,C7H8N2O2,moses_wo/smiles_lstm
+COc1c(O)cc(N)cc1Br,C7H8N2O2,moses_wo/smiles_lstm
+COc1c(N)ccc(Br)c1O,C7H8N2O2,moses_wo/smiles_lstm
+COc1c(N)c(O)c(Cl)c(Br)c1N,C7H8N2O2,moses_wo/smiles_lstm
+COc1c(N)c(O)c(Br)c(Br)c1N,C7H8N2O2,moses_wo/smiles_lstm
+COc1c(N)c(Cl)c(N)c(Br)c1O,C7H8N2O2,moses_wo/smiles_lstm
+COc1c(N)c(Br)c(N)c(Br)c1O,C7H8N2O2,moses_wo/smiles_lstm
+COc1c(N)c(Br)c(Cl)c(N)c1O,C7H8N2O2,moses_wo/smiles_lstm
+COc1c(Cl)ccnc1C(N)=O,C7H8N2O2,moses_wo/smiles_lstm
+COc1c(Br)cncc1CO,C7H8N2O2,moses_wo/smiles_lstm
+COc1c(Br)cncc1C(N)=O,C7H8N2O2,moses_wo/smiles_lstm
+COc1c(Br)cn(CC(N)=O)c1Cl,C7H8N2O2,moses_wo/smiles_lstm
+COc1c(Br)cn(CC(N)=O)c1Br,C7H8N2O2,moses_wo/smiles_lstm
+COc1c(Br)ccnc1C(N)=O,C7H8N2O2,moses_wo/smiles_lstm
+COc1c(Br)ccc(N)c1O,C7H8N2O2,moses_wo/smiles_lstm
+COC(=O)c1nc(C)ncc1Br,C7H8N2O2,moses_wo/smiles_lstm
+COC(=O)c1cc(Br)cnc1N,C7H8N2O2,moses_wo/smiles_lstm
+COC(=O)c1cc(Br)cn1C,C7H8N2O2,moses_wo/smiles_lstm
+COC(=O)c1c(N)cncc1Br,C7H8N2O2,moses_wo/smiles_lstm
+COC(=O)c1c(Br)ccn1C,C7H8N2O2,moses_wo/smiles_lstm
+COC(=O)c1[nH]c(C)cc1Br,C7H8N2O2,moses_wo/smiles_lstm
+COC(=O)Nc1ccc(Br)cn1,C7H8N2O2,moses_wo/smiles_lstm
+CCOC(=O)c1ncc(Br)cn1,C7H8N2O2,moses_wo/smiles_lstm
+CCOC(=O)c1cc(Br)c[nH]1,C7H8N2O2,moses_wo/smiles_lstm
+CCOC(=O)c1[nH]ccc1Br,C7H8N2O2,moses_wo/smiles_lstm
+CCOC(=O)c1[nH]c(N)c(Br)c1Cl,C7H8N2O2,moses_wo/smiles_lstm
+NC(=O)c1c(F)cccc1S(N)=O,C7H8N2O2,moses_wo/smiles_lstm
+Cc1cccc(Cl)c1S(N)(=O)=O,C7H8N2O2,moses_wo/smiles_lstm
+Cc1ccc(Cl)cc1S(N)(=O)=O,C7H8N2O2,moses_wo/smiles_lstm
+CS(=O)(=O)c1cccc(N)c1Cl,C7H8N2O2,moses_wo/smiles_lstm
+CS(=O)(=O)c1ccc(Br)c(N)c1,C7H8N2O2,moses_wo/smiles_lstm
+COc1sc(C)c(Cl)c1C(N)=O,C7H8N2O2,moses_wo/smiles_lstm
+COCc1ncc(Cl)c(Br)c1N,C7H8N2O2,moses_wo/smiles_lstm
+O=C(NC1CCCC(C(F)(F)F)C1)C1(O)CC2CCC1C2(F)Cl,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCN1C(=O)C12CC3CC(CC(C3)C1)C2)N1CC2CCCC21,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCC1)N1CCC2(C1)CN(C(=O)C13CC4CC(CC1C4)C3)C2,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCN(C(=O)C2CCC(F)(F)CC2)CC1)N1CCCCCC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCCCC1)N1CCC(C(=O)N2CCC(F)(F)CC2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCC(F)(F)CC1)N1CC2COCC2(C(=O)N2CCCC2)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCC(F)(F)C1)N1CCC2(C1)CN(C(=O)C1CCCO1)C2,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CC1)N1CCC(F)(F)C2(CCN(C(=O)C3CCOCC3)C2)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(NC1CC(F)(F)C1)N1CCN2CCN(C(=O)C3CCC3)CC2C1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCO1)N1CCC2(CC1)CN(C1CCCCC1)S2(=O)=O,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCO1)N1CCC2(C1)CC(F)(F)CCN2C(=O)NC1CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(NC1CC1)N1CCC(F)(F)C2(CCN(C(=O)C3CCCO3)C2)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCCN1C(=O)N1CCC(C(F)F)CC1)N1CCCCC1,Pioglitazone MPO,moses_wo/smiles_lstm
+N#CC1(C(=O)N2CCCN(C(=O)C3CCC(C(F)(F)F)C3)CC2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(F)N1CCCN(C(=O)C2CCCN(C(=O)C3CCCO3)C2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CC1CCC(NC(=O)N2CCC(F)(F)C3(CCN(C(C)C)C3)C2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CN(C2CCOCC2)CCO1)N1CCC2(CC1)OCCCO2,Pioglitazone MPO,moses_wo/smiles_lstm
+NS(=O)(=O)N1CCC2(CCC(C(=O)N3CCCCCC3)CC2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CC(C)(C(=O)N1CCC2(CC1)OCCO2)N1CCCC2(C1)OCCO2,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CN2CCCCC2CN1)N1CCC(C(F)F)(C(F)(F)F)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(OC1CN(C2CCCCC2)CCO1)N1CCC2(CC1)OCCO2,Pioglitazone MPO,moses_wo/smiles_lstm
+CC1(C(=O)N2CCC(F)(F)CC2)CCN(C(=O)C2CCCCC2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CC1)N1CCC2(C1)CN(C(=O)C1COCCO1)CCC2(F)F,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCO1)N1CC2(C1)CC(F)(F)CCN2C(=O)C1CCCO1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCC1)N1CCC(F)(F)C2(CCN(C(=O)C3CCCO3)O2)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+CC(NC(=O)N1CCCN(C(=O)OC(C)(C)C)CC1)N1CCOCC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCN(C(=O)C2C3CC4CC(C3)CC2C4)CC1)N1CCCCC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCN(C(=O)C23CC4CC(CC2C4)C3)CC1)N1CCCCCC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCN(C(=O)C23CC4CC(CC(C4)C2)C3)CC1)N1CCCCC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCN1C(=O)C12CC3CC(CC(C3)C1)C2)N1CCCCCC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCN(C(=O)C23CC4CC(CC(C4)C2)C3)C1)N1CCCCC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCCC1)N1CCN(C(=O)C23CC4CC(CC(C4)C2)C3)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCC1)N1CCCN(C(=O)C2C3CC4CC(C3)CC2C4)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCC1)N1CCCN(C(=O)C23CC4CC(CC(C4)C2)C3)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCC1)N1CCC2(CCCN(C(=O)C3CC4CCC3C4)C2)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCN(C(=O)C2C3CC4CC(C3)CC2C4)C1)N1CCCCC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCCN1C(=O)C12CC3CC(CC(C3)C1)C2)N1CCCCC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCN1C(=O)C1CC2CCCC(C1)C2(F)F)N1CCCC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCN(C(=O)C2C3CCCCC32)CC1)N1CCC(F)(F)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCOC1)N1CCOC2(CCN(C(=O)C3COCCO3)C2)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCOC1)N1CCOC(C(=O)N2CCC3(CC2)OCCO3)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCN1C(=O)C1COCCO1)N1CCC2(CC1)OCCCO2,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCO1)N1CCOCC2(C1)CN(C(=O)C1CCCO1)CO2,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCO1)N1CCC2(CC1)COC(C(=O)N1CCOCC1)O2,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCO1)N1CCC2(C1)CN(C(=O)C1COCCO1)CCO2,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCN1C(=O)C1COCCO1)N1CCC2(CC1)OCCO2,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CN(C(=O)C2CCCO2)CCO1)N1CCC2(CC1)OCCO2,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCCC(C(=O)N2CCCC23CCCCCC3)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCCC1)N1CCC(F)(F)C2(C1)CN(C(=O)C1CCC1)C2,Pioglitazone MPO,moses_wo/smiles_lstm
+CC1CCCN(C(=O)C2CCCC3(CCN(S(C)(=O)=O)CC3)C2)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=S(=O)(N1CCC2(CC1)OCCO2)N1CCCC(C(F)(F)F)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=S(=O)(N1CCC(C(F)(F)F)CC1)N1CCC2(CC1)OCCO2,Pioglitazone MPO,moses_wo/smiles_lstm
+CC1CC(C(=O)N2CC3CCN(S(C)(=O)=O)CC2C3)CC(C)(C)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=S(=O)(N1CCC(C(F)(F)F)CC1)N1CCCC2(CCCC2)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=S(=O)(N1CCC2CCCCC2C1)N1CCCC(C(F)(F)F)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+CC(C)N1CC2(CCC13CCCCC3)COCCN(S(C)(=O)=O)C2,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCCN(C(=O)C2CCCCC2C(F)(F)F)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCCN(C(=O)C2CCCC(C(F)(F)F)C2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCCN(C(=O)C2CCC(C(F)(F)F)CC2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCCC(C(=O)N2CCCC(C(F)(F)F)C2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCCC(C(=O)N2CCC(C(F)(F)F)CC2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CC(=O)N1CC(C(=O)N2CCOC(C(=O)N3CCOCC3)C2)C(C)O1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCCN(C(=O)NC2C3CC4CC(C3)CC2C4)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCC(NC(=O)N2CC3CC4CC(C3)CC2C4)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCCN(C(=O)NC2C3CC4CC(C3)OC2C4)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCCC2(CC(C#N)CN(C(=O)C3CCCO3)C2)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCCN(C(=O)NC2CCCC3CCCCC32)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCCC(NC(=O)N2CCCC3CCCCC32)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCC(NC(=O)N2CCCC3(CCCC3)CC2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CN1CCN(S(C)(=O)=O)C2(CCN(C(=O)C3CC4CCC3O4)C2)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+CN1CCN(C(=O)C2CCCCC2)CC12CCN(S(C)(=O)=O)CC2,Pioglitazone MPO,moses_wo/smiles_lstm
+CC(=O)N1CCC12CCN(S(C)(=O)=O)CC(C(=O)N1CCCC1)C2,Pioglitazone MPO,moses_wo/smiles_lstm
+CC1CCCC(C)C1NC(=O)N1CC2CCC1CN(S(C)(=O)=O)C2,Pioglitazone MPO,moses_wo/smiles_lstm
+O=S(=O)(N1CCC(C(F)(F)F)CC1)N1CCC(C(F)(F)F)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+CC1CN2CCCCC2CN1S(=O)(=O)N1CCC(C(C)(C)C)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCN(C(=O)NC2CCCC(C(F)(F)F)C2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCCC(NC(=O)N2CCCC2C(F)(F)F)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCC(NC(=O)N2CCCCC2C(F)(F)F)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCN(C(=O)NC2CCC(C(F)(F)F)CC2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCC(NC(=O)N2CCCC(C(F)(F)F)C2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCC(NC(=O)N2CCC(C(F)(F)F)CC2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCCN(C(=O)NC2CCC2)CC(C(F)(F)F)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(CNC(=O)N1CCCCC1)N1CCC2(CC1)OCCCC2Cl,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(NC1CCC2(CC1)OCCO2)N1CCC(N2CCOCC2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(NC1CCCOC1)N1CCC2(CC1)COC(N1CCOCC1)C2,Pioglitazone MPO,moses_wo/smiles_lstm
+C[SH]1CCCC(C(=O)N2CCC(C(=O)N3CCCCCC3)CC2)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+CC1CCCN(C(=O)C2CCN(C(=O)C34CC5CC(CC(C5)C3)C4)C2)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CC=CCC1)N1CCN(C(=O)C23CC4CC(CC(C4)C2)C3)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CN(C)C(=O)N1CCC(NC(=O)NC2CCC3(CC2)OCCO3)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+O=S(=O)(N1CCC2(CC1)OCCO2)N1CCOC2(C=CCCC2)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCC(NC(=O)N2CC3CCC(C2)C(C#N)C3)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCCN1C(=O)N1CCCCC1C(=O)N1CCCC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCCN(C(=O)C2CCCCO2)CC12CCCCC2,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCN(C(=O)N2CCCN(C3CCCC3)CC2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CC1CCCN(C(=O)C2CCC3(CC2)CN(S(C)(=O)=O)CCO3)C1,Pioglitazone MPO,moses_wo/smiles_lstm
+CC1CCN(S(C)(=O)=O)CC12CCN(C(=O)C1CCCOC1)CC2,Pioglitazone MPO,moses_wo/smiles_lstm
+CS(=O)(=O)N1CCC(C(=O)N2CCC3CCCCC3(O)CC2)CC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CC1CCN(S(C)(=O)=O)C2CCN(C(=O)C3CCOCC3)CCC12,Pioglitazone MPO,moses_wo/smiles_lstm
+O=C(C1CCCN1C(=O)C12CCC(CC1)C2(Cl)Cl)N1CCCC1,Pioglitazone MPO,moses_wo/smiles_lstm
+CC(C)(C)C1CCCN(S(=O)(=O)N2CCCC3(CCCO3)CC2)C1,Pioglitazone MPO,moses_wo/smiles_lstm

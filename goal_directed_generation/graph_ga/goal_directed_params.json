@@ -1,0 +1,13 @@
+{
+    "generations": 1000,
+    "mutation_rate": 0.01,
+    "n_jobs": 32,
+    "offspring_size": 200,
+    "output_dir": "/data/gaowh/synthGen/synthesizability/graph_ga",
+    "patience": 5,
+    "population_size": 100,
+    "random_start": false,
+    "seed": 0,
+    "smiles_file": "data/guacamol_v1_all.smiles",
+    "suite": "v5"
+}
