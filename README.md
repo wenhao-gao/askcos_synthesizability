@@ -26,11 +26,10 @@ Under development
 ## Dependencies
 
 ### If you just want to test synthesizability
-- json
-- numpy
-- pandas
-- requests
-
+- Python (3.6.9)
+- numpy (1.16.4)
+- pandas (0.24.2)
+- requests (2.22.0)
 
 ### If you want to use the generative models and benchmarks to reproduce the result
 Please refer to 
