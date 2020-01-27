@@ -6,6 +6,7 @@ A more detailed explanation of the project
 can be found in our [paper]().
 
 ## Usage with ASKCOS API
+This analysis need the API version of [`ASKCOS`](https://github.com/connorcoley/ASKCOS) retrosynthesis tree builder. 
 If you want to test a set of molecules in SMILES (e.g. test.csv), please replace the HOST 
 address in ```tb_analysis/batch_TB.py``` to your ASKCOS server IP, then
 ```bash
@@ -33,6 +34,7 @@ Under development
 
 ### If you want to use the generative models and benchmarks to reproduce the result
 Please refer to 
-[`MOSES`](https://github.com/molecularsets/moses) for distribution learning implementations and
-[`Guacamol Baselines`](https://github.com/BenevolentAI/guacamol_baselines) for goal-directed learning implementations
+[`MOSES`](https://github.com/molecularsets/moses) for dependencies of distribution learning implementations and
+[`Guacamol Baselines`](https://github.com/BenevolentAI/guacamol_baselines) for dependencies of goal-directed learning implementations.
+The benchmarks objective functions can be found in ```goal_directed_generation/guacamol_local```
 
